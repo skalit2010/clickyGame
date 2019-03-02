@@ -1,0 +1,12 @@
+.title {
+  width: 100%;
+  text-align: right;
+  font-size: 2rem;
+  color:rgb(255, 255, 255);
+  text-shadow: 2px 2px #adadad;
+  margin-bottom: 50px;
+  padding-left: 3%;
+  padding-right: 3%;  
+  font-family: 'Bangers', cursive;
+  font-size: 30px;
+}
