@@ -15,4 +15,4 @@ BT21 Clicky Game is a React.js memory game. This application is broken into UI c
 ### Technologies Used
 JavaScript, React, Bootstrap, jQuery, HTML, CSS
 
-![ReMemory Screenshot](https://github.com/)
+![Game Screenshot](https://github.com/skalit2010/clickyGame/blob/master/Screen%20Shot%202019-03-03%20at%209.14.03%20PM.png)
