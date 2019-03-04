@@ -77,7 +77,7 @@ class App extends Component {
         />
 
         <Title>
-          Click on an image, but be careful! If you click the same image twice, you lose!
+          Click on an image, but be careful! If you click the same image twice, you lose! 
         </Title>
 
         <Container>
